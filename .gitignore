@@ -1,0 +1,8 @@
+.idea/
+__pycache__/
+no_sunflowers/
+nosunflowerFieldsContours/
+sunflowerFieldsContours/
+sunflowers/
+sunFlowersTest/
+plants.csv
